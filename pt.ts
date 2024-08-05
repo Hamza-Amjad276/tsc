@@ -6,7 +6,7 @@
 //var myname = 'hamza';
 //console.log(myname);
 
-// DATA TYPES premative datatypes
+// DATA TYPES primitive datatypes
 
 // string 
 // numbers
@@ -15,7 +15,7 @@
 //null
 //bigint
 
-// non premative data types 
+// non primitive data types 
 
 // funtions
 //array
@@ -31,12 +31,12 @@
 
 
 
-// exponentation
+// exponentiation
 
 //let p = 2 ** 4//16
 //console.log(p)
 
-// MODULES
+// MODULUS
 
 //let m = 6 % 2 // 0 reminder return krta hai
 //console.log(m);
@@ -52,7 +52,7 @@
 
 
 
-//increament
+//increments
 
 //let g = 7
 //g++ // +1
@@ -61,7 +61,7 @@
 //console.log(v)
 
 
-//dereament
+//derements
 
 //let f = 5
 //f-- // -1
@@ -213,7 +213,7 @@
 // unary operators  ++,--
 
 
-// increament or decreament
+// increments or decrements
 //let z =  7;// 8//9
 //let v = 5; //4 //3 //4
 //let h = v++ + z-- + ++z + --v + --z + ++z //
