@@ -1,7 +1,7 @@
 //console.log("hello world");
 //var myage = 14;
 //console.log(myage);
-//var harisage = 12;
+//var harisage"3ee2"
 //console.log(harisage);
 //var myname = 'hamza';
 //console.log(myname);
